@@ -1,5 +1,3 @@
-package conversion
-
 import scala.io.StdIn
 
 @main def run(): Unit =
