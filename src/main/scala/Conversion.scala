@@ -1,5 +1,3 @@
-package conversion
-
 import scala.annotation.tailrec
 
 def conversionToBase(value: Int, sourceBase: Int, targetBase: Int): Any =
